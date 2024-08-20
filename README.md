@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-The Hospitality Service Project is designed to provide a comprehensive analysis of the hospitality industry, focusing on key aspects such as hotel bookings, room occupancy, and revenue management. The project integrates various datasets to create a robust dashboard and key performance indicators (KPIs) that offer valuable insights into the operations of hotels across different regions.
+The Hospitality Service Project is designed to provide a comprehensive analysis of the hospitality industry, focusing on key aspects such as hotel bookings, room occupancy and revenue management. The project integrates various datasets to create a robust dashboard and key performance indicators (KPIs) that offer valuable insights into the operations of hotels across different regions.
 
 ### Data Sources
 
@@ -104,7 +104,35 @@ from
 ```
 
 
-### Results/Findings
+### Findings
+
+The analysis results are summarised as follows:
+- Revenue Impact: Cancellations and no-shows significantly reduce potential revenue.
+- Occupancy Variability: Room occupancy rates fluctuate, indicating uneven demand.
+- Customer Preferences: Elite rooms and direct online bookings are most popular.
+- Seasonal Patterns: Higher bookings during weekdays and specific months.
+- City and Category Performance: Certain cities and hotel categories generate more bookings and revenue.
+
+
+### Recommendations
+
+Based on the analysis, we recommend the following actions:
+- Reduce Cancellations: Implement flexible booking policies or incentives to reduce cancellations and no-shows.
+- Optimize Occupancy: Adjust pricing or offer promotions during low-demand periods to increase room occupancy.
+- Targeted Marketing: Focus marketing efforts on popular room categories and booking channels.
+- Seasonal Campaigns: Develop promotional campaigns aligned with peak booking seasons, especially for weekdays.
+- Expand in High-Performing Areas: Consider expanding services or offering premium options in cities and categories with strong performance.
+
+
+### Power BI Dashboard 
+
+Here is a screenshot of the Power BI dashboard I created:
+
+
+
+
+
+
 
 
 
