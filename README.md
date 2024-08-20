@@ -124,15 +124,30 @@ Based on the analysis, we recommend the following actions:
 - Expand in High-Performing Areas: Consider expanding services or offering premium options in cities and categories with strong performance.
 
 
+### Here are screenshots of the dashboards I created during my analysis:
+
 ### Power BI Dashboard 
 
-Here is a screenshot of the Power BI dashboard I created:
+- Dashboard-1
+![Hospitality_pbix_dashboard](https://github.com/user-attachments/assets/692f799a-a51d-4b23-8510-7157a67b78cc)
 
 
+- Dashboard-2
+![Hospitality2_dashboard_pbix](https://github.com/user-attachments/assets/5033f0a5-fa2b-48d1-9999-0932493d896c)
 
 
+### Excel Dashboard
+
+![Excel_hospitality_dashboard](https://github.com/user-attachments/assets/efbd65b0-b4e4-46dc-a66f-938bda1dca64)
 
 
+### Tableau Dashboard
+
+- Dashboard-1
+![Tableau_hospitality_dashboard](https://github.com/user-attachments/assets/1e3015e4-4061-4be2-bf69-d8efd04fb7e0)
 
 
+- Dashboard-2
+![Tableau2_hospitality_dashboard](https://github.com/user-attachments/assets/58caa790-a4ca-4d5d-8390-5a6a1483be97)
 
+  
