@@ -1,5 +1,18 @@
 # Hospitality Service Analysis
 
+## Table of contents
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning/Preparation](#data-cleaningpreparation)
+- [Data Analysis](#data-analysis)
+- [Findings](#findings)
+- [Recommendations](#recommendations)
+- [Power BI Dashboard](#power-bi-dashboard)
+- [Excel Dashboard](#excel-dashboard)
+- [Tabeau Dashboard](#tableau-dashboard)
+
 ### Project Overview
 
 The Hospitality Service Project is designed to provide a comprehensive analysis of the hospitality industry, focusing on key aspects such as hotel bookings, room occupancy and revenue management. The project integrates various datasets to create a robust dashboard and key performance indicators (KPIs) that offer valuable insights into the operations of hotels across different regions.
