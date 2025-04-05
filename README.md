@@ -1,7 +1,5 @@
 # Hospitality Service Analysis
-
 ## Table of contents
-
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
@@ -12,19 +10,14 @@
 - [Power BI Dashboard](#power-bi-dashboard)
 - [Excel Dashboard](#excel-dashboard)
 - [Tabeau Dashboard](#tableau-dashboard)
-
 ### Project Overview
-
 The Hospitality Service Project is designed to provide a comprehensive analysis of the hospitality industry, focusing on key aspects such as hotel bookings, room occupancy and revenue management. The project integrates various datasets to create a robust dashboard and key performance indicators (KPIs) that offer valuable insights into the operations of hotels across different regions.
-
 ### Data Sources
-
 - dim_date: Contains date-related information including day types (weekend/weekday) and month names, crucial for time-based analysis.
 - fact_aggregated_bookings: Aggregated booking data including details such as property ID, room category, successful bookings, and capacity.
 - dim_hotels: Details about various hotels, including their property ID, name, category, and city.
 - dim_rooms: Information about different room categories, such as Standard, Elite, Premium, and Presidential.
 - fact_bookings: Comprehensive booking records including booking ID, property ID, booking and check-in dates, guest count, booking platform, ratings, booking status, revenue generated, and cancellations.
-
 ### Tools
 - Excel - Data Cleaning [Download Here](https://microsoft.com)
 - MySQL Workbench - Data Analysis [Download Here](https://dev.mysql.com/downloads/workbench/)
