@@ -155,5 +155,6 @@ Based on the analysis, we recommend the following actions:
 
 - Dashboard-2
 ![Tableau2_hospitality_dashboard](https://github.com/user-attachments/assets/58caa790-a4ca-4d5d-8390-5a6a1483be97)
+---
 
   
